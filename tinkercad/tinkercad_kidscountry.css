@@ -1,0 +1,72 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image: url('minicooper tinkercd.png');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -50px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:170px;
+}
+
+.jumbotron h1 {
+  color: #000033;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 15px;
+  color: #000033;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+#Tinker {
+	font-size:20px;
+}
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides1 {
+	background-color: #dcdcdc;
+	border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size:24px;
+    margin-bottom:13px;}
+    
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px}
+    
+    
